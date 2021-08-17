@@ -39,7 +39,7 @@ samples, guidance on mobile development, and a full API reference.
 - Bottom Navigation Bar (Home Layout)
 - Search Bar
 - Toggle Button
-- 6 Screens
+- 7 Screens
 
 
 
