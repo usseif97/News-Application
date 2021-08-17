@@ -41,6 +41,21 @@ samples, guidance on mobile development, and a full API reference.
 - Toggle Button
 - 7 Screens
 
+## API
+ newsapi.org :- 
+ - url: 'v2/top-headlines',
+   query: {
+   'country': 'eg',
+   'category': '---',
+   'apiKey': 'xxxxxxxxxxxxxxxxxxxxxxx'
+   }
+   
+ - url: 'v2/everything',
+   query: {
+   'q': '$value',
+   'apiKey': 'xxxxxxxxxxxxxxxxxxxxxxx'
+   }
+
 
 
 
